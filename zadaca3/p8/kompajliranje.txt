@@ -1,0 +1,4 @@
+g++ -std=c++14 trazenje.cpp student.cpp p8.cpp -o p8
+
+za pokrenuti:
+./p8
